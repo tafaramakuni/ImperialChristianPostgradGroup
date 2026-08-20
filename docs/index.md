@@ -27,6 +27,9 @@ Location: Senior Common Room, South Kensington
 + [Forming A Christian Mind: London Seminar: Wednesday 7th October](https://formingachristianmind.org/london/)
 + [Fruitful Work: National Gathering: Fri/Sat 8-9th January 2027](https://fruitfulwork.org/national-gathering) 
 
+### Additional Resources
++ [Should Christian Scientists Fear AI? by Dr Tafara E. Makuni](https://youtu.be/TV1cMX5hWok)
+
 ## Social Media
 + [Instagram](https://www.instagram.com/imperialchristianpostgradgroup)
 
