@@ -14,30 +14,30 @@ Mobile: (+44)7794513150
 ## Gathering
 ### On-Campus 
 #### Main Sessions
-Location: Senior Common Room, South Kensington
-+ 8th October 2026
-+ 12th November 2026
-+ 10th December 2026
+Location: Senior Common Room, South Kensington<br>
++ 8th October 2026<br>
++ 12th November 2026<br>
++ 10th December 2026<br>
 
 #### Additional Sessions
-+ Freshers Welcome Event: 1st October 2026
-+ Guest Speaker: 26th November 2026
++ Freshers Welcome Event: 1st October 2026<br>
++ Guest Speaker: 26th November 2026<br>
 
 ### Other Events
-+ [Forming A Christian Mind: London Seminar: Wednesday 7th October](https://formingachristianmind.org/london/)
-+ [Fruitful Work: National Gathering: Fri/Sat 8-9th January 2027](https://fruitfulwork.org/national-gathering) 
++ [Forming A Christian Mind: London Seminar: Wednesday 7th October](https://formingachristianmind.org/london/)<br>
++ [Fruitful Work: National Gathering: Fri/Sat 8-9th January 2027](https://fruitfulwork.org/national-gathering) <br>
 
 ### Additional Resources
-+ [Talk: Should Christian Scientists Fear AI? by Dr Tafara E. Makuni](https://youtu.be/TV1cMX5hWok)
-+ [Sermon: Christ as an Unblemished Bride by Dr Tafara E. Makuni](https://youtu.be/G5tOrx_P4yg)
-+ [Sermon: Awaiting the Return of Jesus by Dr Tafara E. Makuni](https://youtu.be/Iv_bYdA8KVA)
-+ [Sermon: The Courage to Trust God by Dr Tafara E. Makuni](https://youtu.be/sUp9-YSXRmo)
++ [Talk: Should Christian Scientists Fear AI? by Dr Tafara E. Makuni](https://youtu.be/TV1cMX5hWok)<br>
++ [Sermon: Christ as an Unblemished Bride by Dr Tafara E. Makuni](https://youtu.be/G5tOrx_P4yg)<br>
++ [Sermon: Awaiting the Return of Jesus by Dr Tafara E. Makuni](https://youtu.be/Iv_bYdA8KVA)<br>
++ [Sermon: The Courage to Trust God by Dr Tafara E. Makuni](https://youtu.be/sUp9-YSXRmo)<br>
 
 ## Social Media
-+ [Instagram](https://www.instagram.com/imperialchristianpostgradgroup)
-+ [WhatsApp](https://chat.whatsapp.com/FvUIcdLEQlWBBeof7dLWkB)
++ [Instagram](https://www.instagram.com/imperialchristianpostgradgroup)<br>
++ [WhatsApp](https://chat.whatsapp.com/FvUIcdLEQlWBBeof7dLWkB)<br>
 
 ## Affiliated Churches
-+ [Christ Church Kensington](https://www.christchurchkensington.com/)
-+ [St Luke's Christ Church Chelsea](https://chelseaparish.org/)
-+ [All Saints Goodmayes](https://allsaintsgoodmayes.org.uk/)
++ [Christ Church Kensington](https://www.christchurchkensington.com/)<br>
++ [St Luke's Christ Church Chelsea](https://chelseaparish.org/)<br>
++ [All Saints Goodmayes](https://allsaintsgoodmayes.org.uk/)<br>
