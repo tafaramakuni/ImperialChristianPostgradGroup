@@ -16,7 +16,6 @@ Location: Senior Common Room, South Kensington
 
 #### Additional Sessions
 + Freshers Welcome Event: 1st October 2026
-+ Additional: 22nd October 2026, 5th November 2026 
 + Guest Speaker: 26th November 2026
 
 ### Other Events
