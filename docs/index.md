@@ -12,7 +12,6 @@ Short Bio. <br>
 Contact: Email Address <br>
 Mobile: (+XX)XXXXXXXXXX <br>
 
-
 ## Gathering
 ### On-Campus 
 #### Main Sessions
