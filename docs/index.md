@@ -28,10 +28,14 @@ Location: Senior Common Room, South Kensington
 + [Fruitful Work: National Gathering: Fri/Sat 8-9th January 2027](https://fruitfulwork.org/national-gathering) 
 
 ### Additional Resources
-+ [Should Christian Scientists Fear AI? by Dr Tafara E. Makuni](https://youtu.be/TV1cMX5hWok)
++ [Talk: Should Christian Scientists Fear AI? by Dr Tafara E. Makuni](https://youtu.be/TV1cMX5hWok)
++ [Sermon: Christ as an Unblemished Bride by Dr Tafara E. Makuni](https://youtu.be/G5tOrx_P4yg)
++ [Sermon: Awaiting the Return of Jesus by Dr Tafara E. Makuni](https://youtu.be/Iv_bYdA8KVA)
++ [Sermon: The Courage to Trust God by Dr Tafara E. Makuni](https://youtu.be/sUp9-YSXRmo)
 
 ## Social Media
 + [Instagram](https://www.instagram.com/imperialchristianpostgradgroup)
++ [WhatsApp](https://chat.whatsapp.com/FvUIcdLEQlWBBeof7dLWkB)
 
 ## Affiliated Churches
 + [Christ Church Kensington](https://www.christchurchkensington.com/)
