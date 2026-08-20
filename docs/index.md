@@ -25,7 +25,7 @@ Mobile: (+XX)XXXXXXXXXX <br>
 + Guest Speaker: 26th November 2026, Location: TBC <br>
 
 ### Other Events
-+ [Forming A Christian Mind: London Seminar: Wednesday 7th October](https://formingachristianmind.org/london/)<br>
++ [Forming A Christian Mind: London Seminar: Wednesday 7th October 2026](https://formingachristianmind.org/london/)<br>
 + [Fruitful Work: National Gathering: Fri/Sat 8-9th January 2027](https://fruitfulwork.org/national-gathering) <br>
 
 ### Additional Resources
