@@ -12,7 +12,7 @@ Mobile: (+44)7794513150
 ## Gathering
 ### On-Campus 
 #### Main Sessions
-Location: Senior Common Room, South Kensington<br>
+[Location: Senior Common Room, South Kensington](https://www.imperial.ac.uk/events-and-hospitality/venues/sherfield-building/scr/) <br>
 + 8th October 2026 <br>
 + 12th November 2026 <br>
 + 10th December 2026 <br>
@@ -27,7 +27,7 @@ Location: Senior Common Room, South Kensington<br>
 
 ### Additional Resources
 + [Talk: Should Christian Scientists Fear AI? by Dr Tafara E. Makuni](https://youtu.be/TV1cMX5hWok)<br>
-!+ [Sermon: Christ as an Unblemished Bride by Dr Tafara E. Makuni](https://youtu.be/G5tOrx_P4yg)<br>
++ [Sermon: Christ as an Unblemished Bride by Dr Tafara E. Makuni](https://youtu.be/G5tOrx_P4yg)<br>
 + [Sermon: Awaiting the Return of Jesus by Dr Tafara E. Makuni](https://youtu.be/Iv_bYdA8KVA)<br>
 + [Sermon: The Courage to Trust God by Dr Tafara E. Makuni](https://youtu.be/sUp9-YSXRmo)<br>
 
