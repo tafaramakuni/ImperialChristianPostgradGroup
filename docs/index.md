@@ -30,9 +30,11 @@ Mobile: (+XX)XXXXXXXXXX <br>
 
 ### Additional Resources
 + [Talk: Should Christian Scientists Fear AI? by Dr Tafara E. Makuni](https://youtu.be/TV1cMX5hWok)<br>
-#+ [Sermon: Christ as an Unblemished Bride by Dr Tafara E. Makuni](https://youtu.be/G5tOrx_P4yg)<br>
-#+ [Sermon: Awaiting the Return of Jesus by Dr Tafara E. Makuni](https://youtu.be/Iv_bYdA8KVA)<br>
-#+ [Sermon: The Courage to Trust God by Dr Tafara E. Makuni](https://youtu.be/sUp9-YSXRmo)<br>
+<!-- 
++ [Sermon: Christ as an Unblemished Bride by Dr Tafara E. Makuni](https://youtu.be/G5tOrx_P4yg)<br>
++ [Sermon: Awaiting the Return of Jesus by Dr Tafara E. Makuni](https://youtu.be/Iv_bYdA8KVA)<br>
++ [Sermon: The Courage to Trust God by Dr Tafara E. Makuni](https://youtu.be/sUp9-YSXRmo)<br>
+-->
 
 ## Social Media
 + [Instagram](https://www.instagram.com/imperialchristianpostgradgroup)<br>
