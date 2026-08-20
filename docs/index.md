@@ -1,8 +1,6 @@
 # Imperial College London Christian Postgraduate Group (ICPG)
 
-Welcome to the IPCG home for Christian postgraduate students (Masters/PhD) studying at Imperial College London, United Kingdom.
 <img width="100" height="100" alt="image" src="https://github.com/tafaramakuni/ImperialChristianPostgradGroup/blob/main/docs/assets/ICPG%20Logo.jpg" /><br>
-
 
 ## Leader: Dr Tafara Estelle Makuni
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03" /><br>
