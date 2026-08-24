@@ -28,8 +28,9 @@ Mobile: (+XX)XXXXXXXXXX <br>
 + Thu 10th December 2026 <br>
 
 ### Other Events
-+ [Forming A Christian Mind: London Seminar: Wednesday 7th October 2026](https://formingachristianmind.org/london/)<br>
-+ [Fruitful Work: National Gathering: Fri/Sat 8-9th January 2027](https://fruitfulwork.org/national-gathering) <br>
++ [Fruitful Work: Book Launch, Tuesday 22nd September 2026](https://fruitfulwork.org/book-launch)<br>
++ [Forming A Christian Mind: London Seminar, Wednesday 7th October 2026](https://formingachristianmind.org/london/)<br>
++ [Fruitful Work: National Gathering, Fri/Sat 8-9th January 2027](https://fruitfulwork.org/national-gathering) <br>
 
 ### Additional Resources
 #### Talks
