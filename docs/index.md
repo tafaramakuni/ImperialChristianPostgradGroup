@@ -5,12 +5,12 @@
 Dr Tafara Estelle Makuni is Christian scientist currently pursuing a second AI-focused PhD at Imperial College London within the Structural Integrity and Health Monitoring Group, funded by CINEA and UKRI. She previously completed a PhD in Experimental Aerodynamics at University of Cambridge. With experience across academia, education and industry, including Rolls-Royce and MBDA UK, Tafara combines technical expertise with strong leadership, communication and problem-solving skills.
 
 Contact: t.makuni23@i******l.ac.uk <br>
-Mobile: (+44)7794513150
+Mobile: (+44)7794 513150
 
-### Co-Leader: Name
-Short Bio. <br>
-Contact: Email Address <br>
-Mobile: (+XX)XXXXXXXXXX <br>
+### Co-Leader: Nancy
+Short Biography. <br>
+Contact: fangyue.chen20@i******l.ac.uk <br>
+Mobile: (+44)7510 888677 <br>
 
 ## Gathering
 #### Social Sessions
