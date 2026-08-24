@@ -13,16 +13,19 @@ Contact: Email Address <br>
 Mobile: (+XX)XXXXXXXXXX <br>
 
 ## Gathering
-### On-Campus 
-#### Main Sessions
+#### Social Sessions
++ 1st October 2026: Freshers Welcome Event. Location: TBC <br>
++ 16th October 2026: Guest Speaker. Location: TBC <br>
++ 22nd October 2026: Additional Session 1. Location: TBC <br>
++ 5th November 2026: Additional Session 2. Location: TBC <br>
++ 27th November 2026: Guest Speaker. Location: TBC <br>
++ 3rd December 2026: Additional Session 2. Location: TBC <br>
+
+#### Main Academic Sessions
 [Location: Senior Common Room, South Kensington](https://www.imperial.ac.uk/events-and-hospitality/venues/sherfield-building/scr/) <br>
 + 8th October 2026 <br>
 + 12th November 2026 <br>
 + 10th December 2026 <br>
-
-#### Additional Sessions
-+ Freshers Welcome Event: 1st October 2026, Location: TBC <br>
-+ Guest Speaker: 26th November 2026, Location: TBC <br>
 
 ### Other Events
 + [Forming A Christian Mind: London Seminar: Wednesday 7th October 2026](https://formingachristianmind.org/london/)<br>
