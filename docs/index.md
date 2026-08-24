@@ -19,9 +19,9 @@ Mobile: (+XX)XXXXXXXXXX <br>
 + 22nd October 2026: Additional Session 1. Location: TBC <br>
 + 5th November 2026: Additional Session 2. Location: TBC <br>
 + 27th November 2026: Guest Speaker. Location: TBC <br>
-+ 3rd December 2026: Additional Session 2. Location: TBC <br>
++ 3rd December 2026: Additional Session 3. Location: TBC <br>
 
-#### Main Academic Sessions
+#### Academic Sessions
 [Location: Senior Common Room, South Kensington](https://www.imperial.ac.uk/events-and-hospitality/venues/sherfield-building/scr/) <br>
 + 8th October 2026 <br>
 + 12th November 2026 <br>
