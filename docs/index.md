@@ -32,12 +32,16 @@ Mobile: (+XX)XXXXXXXXXX <br>
 + [Fruitful Work: National Gathering: Fri/Sat 8-9th January 2027](https://fruitfulwork.org/national-gathering) <br>
 
 ### Additional Resources
+#### Talks
 + [Talk: Should Christian Scientists Fear AI? by Dr Tafara E. Makuni](https://youtu.be/TV1cMX5hWok)<br>
-<!-- 
+
+#### Sermons
 + [Sermon: Christ as an Unblemished Bride by Dr Tafara E. Makuni](https://youtu.be/G5tOrx_P4yg)<br>
 + [Sermon: Awaiting the Return of Jesus by Dr Tafara E. Makuni](https://youtu.be/Iv_bYdA8KVA)<br>
 + [Sermon: The Courage to Trust God by Dr Tafara E. Makuni](https://youtu.be/sUp9-YSXRmo)<br>
--->
++ [Sermon: Living as Wheat amongst the Weeds by Dr Tafara E. Makuni](https://youtu.be/d30FUbPpX9Y)<br>
++ [Sermon: The Bedrock of Jesus Christ by Dr Tafara E. Makuni](https://youtu.be/xVD0NwoB1P4)<br>
+
 
 ## Social Media
 + [Instagram](https://www.instagram.com/imperialchristianpostgradgroup)<br>
