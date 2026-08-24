@@ -23,9 +23,9 @@ Mobile: (+44)7510 888677 <br>
 
 #### Academic Sessions
 [Location: Senior Common Room, South Kensington](https://www.imperial.ac.uk/events-and-hospitality/venues/sherfield-building/scr/) <br>
-+ Thu 8th October 2026 <br>
-+ Thu 12th November 2026 <br>
-+ Thu 10th December 2026 <br>
++ Thu 8th October 2026. <br>
++ Thu 12th November 2026. <br>
++ Thu 10th December 2026. <br>
 
 ### Other Events
 + [Fruitful Work: Book Launch, Tuesday 22nd September 2026](https://fruitfulwork.org/book-launch)<br>
