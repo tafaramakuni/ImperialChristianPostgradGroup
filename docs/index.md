@@ -15,7 +15,7 @@ Fangyue (aka Nancy) is a trainee surgeon and a PhD researcher at Institute of Gl
 Contact: fangyue.chen20@i******l.ac.uk <br>
 
 ### Co-Leaders: Baxter
-<img width="300" height="000" alt="Baxter" src="assets/BaxterProfilePicture.jpg" /><br>
+<img src="assets/BaxterProfilePicture.jpg" alt="Description" style="width: 300px; height: 300px;">
 Short Biography. <br>
 
 Contact: baxtermcrolston@chelsea******.org <br>
