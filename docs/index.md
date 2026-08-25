@@ -7,13 +7,13 @@ Dr Tafara Estelle Makuni is Christian scientist currently pursuing a second AI-f
 Contact: t.makuni23@i******l.ac.uk <br>
 Mobile: (+44)7794 513150
 
-### Co-Leader (Official): Nancy
+### Co-Leaders: Nancy
 <img width="300" height="000" alt="image" src=" " /><br>
 Fangyue (aka Nancy) is a trainee surgeon and a PhD researcher at Institute of Global Health Innovation at Imperial. She was born in China, and has been exploring the Christian faith ever since university times, until Jesus came and touched her heart when she first became a doctor in 2019. She loves music and has a faith-based Instagram channel @thegracefuldoctor. <br>
 
 Contact: fangyue.chen20@i******l.ac.uk <br>
 
-### Co-Leader (Unofficial): Baxter
+### Co-Leaders: Baxter
 <img width="300" height="000" alt="image" src=" " /><br>
 Short Biography. <br>
 
