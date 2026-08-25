@@ -8,13 +8,17 @@ Contact: t.makuni23@i******l.ac.uk <br>
 Mobile: (+44)7794 513150
 
 ### Co-Leader (Official): Nancy
+<img width="300" height="000" alt="image" src=" " /><br>
 Fangyue (aka Nancy) is a trainee surgeon and a PhD researcher at Institute of Global Health Innovation at Imperial. She was born in China, and has been exploring the Christian faith ever since university times, until Jesus came and touched her heart when she first became a doctor in 2019. She loves music and has a faith-based Instagram channel @thegracefuldoctor. <br>
+
 Contact: fangyue.chen20@i******l.ac.uk <br>
 
 ### Co-Leader (Unofficial): Baxter
-<img width="300" height="300" alt="image" src="[https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03](https://chelseaparish.org/wp-content/uploads/2025/06/DSC_0916.jpg)" /><br>
+<img width="300" height="000" alt="image" src=" " /><br>
 Short Biography. <br>
-Contact:  <br>
+
+Contact: baxtermcrolston@chelsea******.org <br>
+
 
 ## Gathering
 #### Social Sessions
@@ -41,11 +45,11 @@ Contact:  <br>
 + [Talk: Should Christian Scientists Fear AI? by Dr Tafara E. Makuni](https://youtu.be/TV1cMX5hWok)<br>
 
 #### Sermons
-+ [Sermon: Christ as an Unblemished Bride by Dr Tafara E. Makuni](https://youtu.be/G5tOrx_P4yg)<br>
-+ [Sermon: Awaiting the Return of Jesus by Dr Tafara E. Makuni](https://youtu.be/Iv_bYdA8KVA)<br>
-+ [Sermon: The Courage to Trust God by Dr Tafara E. Makuni](https://youtu.be/sUp9-YSXRmo)<br>
-+ [Sermon: Living as Wheat amongst the Weeds by Dr Tafara E. Makuni](https://youtu.be/d30FUbPpX9Y)<br>
-+ [Sermon: The Bedrock of Jesus Christ by Dr Tafara E. Makuni](https://youtu.be/xVD0NwoB1P4)<br>
++ [Sermon: 31/08/25. Christ as an Unblemished Bride by Dr Tafara E. Makuni](https://youtu.be/G5tOrx_P4yg)<br>
++ [Sermon: 30/11/25. Awaiting the Return of Jesus by Dr Tafara E. Makuni](https://youtu.be/Iv_bYdA8KVA)<br>
++ [Sermon: 15/03/26. The Courage to Trust God by Dr Tafara E. Makuni](https://youtu.be/sUp9-YSXRmo)<br>
++ [Sermon: 19/07/26. Living as Wheat amongst the Weeds by Dr Tafara E. Makuni](https://youtu.be/d30FUbPpX9Y)<br>
++ [Sermon: 23/08/26. The Bedrock of Jesus Christ by Dr Tafara E. Makuni](https://youtu.be/xVD0NwoB1P4)<br>
 
 
 ## Social Media
