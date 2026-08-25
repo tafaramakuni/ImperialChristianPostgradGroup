@@ -60,4 +60,5 @@ Contact: baxtermcrolston@chelsea******.org <br>
 + [St Luke's Christ Church Chelsea](https://chelseaparish.org/)<br>
 + [All Saints Goodmayes](https://allsaintsgoodmayes.org.uk/)<br>
 + [Imperial College Christian Union](https://imperialcollegechristianunion.com/)<br>
++ [Forming A Christian Mind](https://formingachristianmind.org/)<br>
 + [Fruitful Work](https://fruitfulwork.org/)<br>
