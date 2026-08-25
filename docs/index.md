@@ -19,9 +19,8 @@ Short Biography. <br>
 
 Contact: baxtermcrolston@chelsea******.org <br>
 
-
 ## Gathering
-#### Social Sessions
+#### General Sessions
 + Thu 1st October 2026: Freshers Welcome Event. Location: TBC <br>
 + Fri 16th October 2026: Guest Speaker (Talk/Q&A). Location: TBC <br>
 + Thu 22nd October 2026: Additional Session 1. Location: TBC <br>
@@ -51,12 +50,13 @@ Contact: baxtermcrolston@chelsea******.org <br>
 + [Sermon: 19/07/26. Living as Wheat amongst the Weeds by Dr Tafara E. Makuni](https://youtu.be/d30FUbPpX9Y)<br>
 + [Sermon: 23/08/26. The Bedrock of Jesus Christ by Dr Tafara E. Makuni](https://youtu.be/xVD0NwoB1P4)<br>
 
-
 ## Social Media
 + [Instagram](https://www.instagram.com/imperialchristianpostgradgroup)<br>
 + [WhatsApp](https://chat.whatsapp.com/FvUIcdLEQlWBBeof7dLWkB)<br>
 
-## Affiliated Churches
+## Affiliated Churches and Organisations
 + [Christ Church Kensington](https://www.christchurchkensington.com/)<br>
 + [St Luke's Christ Church Chelsea](https://chelseaparish.org/)<br>
 + [All Saints Goodmayes](https://allsaintsgoodmayes.org.uk/)<br>
++ [Imperial College Christian Union](https://imperialcollegechristianunion.com/)<br>
++ [Fruitful Work](https://fruitfulwork.org/)<br>
