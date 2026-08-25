@@ -1,5 +1,5 @@
 # Imperial College London Christian Postgraduate Group (ICPG)
-<img width="100" height="100" alt="ICPG" src="assets/ICPG Logo.jpg" /><br>
+<img src="assets/ICPG Logo.jpg" alt="Description" style="width: 100px; height: 100px;"><br>
 
 ## Leader: Dr Tafara Estelle Makuni
 <img width="400" height="400" alt="Tafara" src="https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03" /><br>
@@ -9,13 +9,13 @@ Contact: t.makuni23@i******l.ac.uk <br>
 Mobile: (+44)7794 513150
 
 ### Co-Leaders: Nancy
-<img width="300" height="000" alt="Nancy" src="assets/NancyProfilePicture.jpeg" /><br>
+<img src="assets/NancyProfilePicture.jpg" alt="Description" style="width: 200px; height: 200px;">
 Fangyue (aka Nancy) is a trainee surgeon and a PhD researcher at Institute of Global Health Innovation at Imperial. She was born in China, and has been exploring the Christian faith ever since university times, until Jesus came and touched her heart when she first became a doctor in 2019. She loves music and has a faith-based Instagram channel @thegracefuldoctor. <br>
 
 Contact: fangyue.chen20@i******l.ac.uk <br>
 
 ### Co-Leaders: Baxter
-<img src="assets/BaxterProfilePicture.jpg" alt="Description" style="width: 300px; height: 300px;">
+<img src="assets/BaxterProfilePicture.jpg" alt="Description" style="width: 200px; height: 200px;">
 Short Biography. <br>
 
 Contact: baxtermcrolston@chelsea******.org <br>
