@@ -2,15 +2,19 @@
 
 ## Leader: Dr Tafara Estelle Makuni
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03" /><br>
-Dr Tafara Estelle Makuni is Christian scientist currently pursuing a second AI-focused PhD at Imperial College London within the Structural Integrity and Health Monitoring Group, funded by CINEA and UKRI. She previously completed a PhD in Experimental Aerodynamics at University of Cambridge. With experience across academia, education and industry, including Rolls-Royce and MBDA UK, Tafara combines technical expertise with strong leadership, communication and problem-solving skills.
+Dr Tafara Estelle Makuni is Christian scientist currently pursuing a second AI-focused PhD at Imperial College London within the Structural Integrity and Health Monitoring Group, funded by CINEA and UKRI. She previously completed a PhD in Experimental Aerodynamics at University of Cambridge. With experience across academia, education and industry, including Rolls-Royce and MBDA UK, Tafara combines technical expertise with strong leadership, communication and problem-solving skills. <br>
 
 Contact: t.makuni23@i******l.ac.uk <br>
 Mobile: (+44)7794 513150
 
-### Co-Leader: Nancy
-Short Biography. <br>
+### Co-Leader (Official): Nancy
+Fangyue (aka Nancy) is a trainee surgeon and a PhD researcher at Institute of Global Health Innovation at Imperial. She was born in China, and has been exploring the Christian faith ever since university times, until Jesus came and touched her heart when she first became a doctor in 2019. She loves music and has a faith-based Instagram channel @thegracefuldoctor. <br>
 Contact: fangyue.chen20@i******l.ac.uk <br>
-Mobile: (+44)7510 888677 <br>
+
+### Co-Leader (Unofficial): Baxter
+<img width="300" height="300" alt="image" src="[https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03](https://chelseaparish.org/wp-content/uploads/2025/06/DSC_0916.jpg)" /><br>
+Short Biography. <br>
+Contact:  <br>
 
 ## Gathering
 #### Social Sessions
