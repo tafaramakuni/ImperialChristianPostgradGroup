@@ -32,7 +32,7 @@ Contact: baxtermcrolston@chelsea******.org <br>
 + Thu 22nd October 2026: Session 2. Location: CAGB-03-321. <br>
 + Thu 5th November 2026: Session 3. Location: CAGB-03-321. <br>
 + Thu 12th November 2026: Session 4. Location: CAGB-03-321. <br>
-+ Fri 20th November 2026: Guest Speaker. **Location: TBC.** <br>
++ Fri 20th November 2026: Guest Speaker. **Location: Christ Church Kensington, London W8 5RQ.** <br>
 + Thu 3rd December 2026: : Session 5. Location: CAGB-03-321. <br>
 + Thu 10th December 2026. Session 6. Location: CAGB-03-321. <br>
 
