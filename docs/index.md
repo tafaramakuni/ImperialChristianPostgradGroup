@@ -68,7 +68,6 @@ Contact: baxtermcrolston@chelsea******.org <br>
 <button type="submit" style="background-color: var(--md-primary-fg-color); color: var(--md-primary-bg-color); padding: 10px 20px; border: none; border-radius: 4px; font-weight: bold; cursor: pointer;">Send Message</button>
 </form>
 
-
 ## Affiliated Churches and Organisations
 + [Christ Church Kensington](https://www.christchurchkensington.com/)<br>
 + [St Luke's Christ Church Chelsea](https://chelseaparish.org/)<br>
