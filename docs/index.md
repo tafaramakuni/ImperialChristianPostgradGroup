@@ -21,17 +21,17 @@ Short Biography. <br>
 Contact: baxtermcrolston@chelsea******.org <br>
 
 ## Gathering
-#### Sessions
+#### Location
 [Location: CAGB-03-321, City and Guilds Building, Level 3, Meeting Room 321; Imperial College London, South Kensington.](https://www.imperial.ac.uk/engineering/study/current/teaching-spaces/cagb-309/) <br>
 <img src="assets/SiteMapCAGB-03-321.jpg" alt="SiteMap" style="width: 1000px;"> <br>
-Dates:
+#### Dates
 + Thu 1st October 2026: Freshers Welcome Event. Location: CAGB-03-321. <br>
 + Thu 8th October 2026: Session 1. Location: CAGB-03-321. <br>
-+ Fri 16th October 2026: Guest Speaker. Location: Christ Church Kensington, Victoria Rd; London W8 5RQ. <br>
++ Fri 16th October 2026: Guest Speaker. **Location: Christ Church Kensington, Victoria Rd; London W8 5RQ.** <br>
 + Thu 22nd October 2026: Session 2. Location: CAGB-03-321. <br>
 + Thu 5th November 2026: Session 3. Location: CAGB-03-321. <br>
 + Thu 12th November 2026: Session 4. Location: CAGB-03-321. <br>
-+ Fri 20th November 2026: Guest Speaker. Location: Christ Church Kensington, Victoria Rd; London W8 5RQ. <br>
++ Fri 20th November 2026: Guest Speaker. **Location: Christ Church Kensington, Victoria Rd; London W8 5RQ.** <br>
 + Thu 3rd December 2026: : Session 5. Location: CAGB-03-321. <br>
 + Thu 10th December 2026. Session 6. Location: CAGB-03-321. <br>
 
