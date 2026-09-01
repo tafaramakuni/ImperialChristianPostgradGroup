@@ -21,19 +21,18 @@ Short Biography. <br>
 Contact: baxtermcrolston@chelsea******.org <br>
 
 ## Gathering
-#### General Sessions
-+ Thu 1st October 2026: Freshers Welcome Event. Location: CAGB, Level 3, Meeting Room 321. <br>
-+ Thu 8th October 2026: Session 1. Location: CAGB, Level 3, Meeting Room 321. <br>
-+ Fri 16th October 2026: Guest Speaker (Talk/Q&A). Location: Christ Church Kensington. <br>
-+ Thu 22nd October 2026: Session 2. Location: CAGB, Level 3, Meeting Room 321. <br>
-+ Thu 5th November 2026: Session 3. Location: CAGB, Level 3, Meeting Room 321. <br>
-+ Thu 12th November 2026: Session 4. Location: CAGB, Level 3, Meeting Room 321. <br>
-+ Fri 20th November 2026: Guest Speaker (Talk/Q&A). Location: TBC. <br>
-+ Thu 3rd December 2026: : Session 5. Location: CAGB, Level 3, Meeting Room 321. <br>
-+ Thu 10th December 2026. Session 6. Location: CAGB, Level 3, Meeting Room 321. <br>
+#### Sessions
+[Location: CAGB-03-321, City and Guilds Building, Level 3, Meeting Room 321](https://www.imperial.ac.uk/engineering/study/current/teaching-spaces/cagb-309/) <br>
 
-#### Academic Sessions
-[Location: City and Guilds Building, Level 3, Meeting Room 321](https://www.imperial.ac.uk/engineering/study/current/teaching-spaces/cagb-309/) <br>
++ Thu 1st October 2026: Freshers Welcome Event. Location: CAGB-03-321. <br>
++ Thu 8th October 2026: Session 1. Location: CAGB-03-321. <br>
++ Fri 16th October 2026: Guest Speaker (Talk/Q&A). Location: Christ Church Kensington. <br>
++ Thu 22nd October 2026: Session 2. Location: CAGB-03-321. <br>
++ Thu 5th November 2026: Session 3. Location: CAGB-03-321. <br>
++ Thu 12th November 2026: Session 4. Location: CAGB-03-321. <br>
++ Fri 20th November 2026: Guest Speaker (Talk/Q&A). Location: TBC. <br>
++ Thu 3rd December 2026: : Session 5. Location: CAGB-03-321. <br>
++ Thu 10th December 2026. Session 6. Location: CAGB-03-321. <br>
 
 ### Other Events
 + [Fruitful Work: Book Launch, Tuesday 22nd September 2026](https://fruitfulwork.org/book-launch)<br>
