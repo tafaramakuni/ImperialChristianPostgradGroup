@@ -57,6 +57,18 @@ Contact: baxtermcrolston@chelsea******.org <br>
 + [Instagram](https://www.instagram.com/imperialchristianpostgradgroup)<br>
 + [WhatsApp](https://chat.whatsapp.com/FvUIcdLEQlWBBeof7dLWkB)<br>
 
+## Contact Us
+<form action="https://formspree.io/f/xgaeagey" method="POST" style="margin-top: 20px; max-width: 500px;">
+**Name**  
+<input type="text" id="name" name="name" required style="width: 100%; padding: 10px; margin-top: 5px; margin-bottom: 15px; border: 1px solid var(--md-typeset-color); border-radius: 4px; background-color: var(--md-code-bg-color); color: var(--md-typeset-color);" />
+**Email Address**  
+<input type="email" id="email" name="_replyto" required style="width: 100%; padding: 10px; margin-top: 5px; margin-bottom: 15px; border: 1px solid var(--md-typeset-color); border-radius: 4px; background-color: var(--md-code-bg-color); color: var(--md-typeset-color);" />
+**Message**  
+<textarea id="message" name="message" rows="5" required style="width: 100%; padding: 10px; margin-top: 5px; margin-bottom: 15px; border: 1px solid var(--md-typeset-color); border-radius: 4px; background-color: var(--md-code-bg-color); color: var(--md-typeset-color); resize: vertical;"></textarea>
+<button type="submit" style="background-color: var(--md-primary-fg-color); color: var(--md-primary-bg-color); padding: 10px 20px; border: none; border-radius: 4px; font-weight: bold; cursor: pointer;">Send Message</button>
+</form>
+
+
 ## Affiliated Churches and Organisations
 + [Christ Church Kensington](https://www.christchurchkensington.com/)<br>
 + [St Luke's Christ Church Chelsea](https://chelseaparish.org/)<br>
