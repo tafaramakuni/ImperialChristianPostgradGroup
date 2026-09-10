@@ -21,8 +21,7 @@ Short Biography. <br>
 Contact: baxtermcrolston@chelsea******.org <br>
 
 ## Gathering
-#### Session Location
-[CAGB-03-321, City and Guilds Building, Level 3, Meeting Room 321; Imperial College London, South Kensington.](https://www.imperial.ac.uk/engineering/study/current/teaching-spaces/cagb-309/) <br>
+#### Main Session Locations: [CAGB-03-321, City and Guilds Building, Level 3, Meeting Room 321; Imperial College London, South Kensington.](https://www.imperial.ac.uk/engineering/study/current/teaching-spaces/cagb-309/) <br>
 <img src="assets/SiteMapCAGB-03-321.jpg" alt="SiteMap" style="width: 800px;"> <br>
 
 #### Session Dates
