@@ -40,6 +40,7 @@ Contact: baxtermcrolston@chelsea******.org <br>
 + [Forming A Christian Mind: London Seminar, Wednesday 7th October 2026](https://formingachristianmind.org/london/)<br>
 + [Fruitful Work: National Gathering, Fri/Sat 8-9th January 2027](https://fruitfulwork.org/national-gathering) <br>
 
+<!--
 ### Additional Resources
 #### Talks
 + [Talk: Should Christian Scientists Fear AI? by Dr Tafara E. Makuni](https://youtu.be/TV1cMX5hWok)<br>
@@ -50,6 +51,7 @@ Contact: baxtermcrolston@chelsea******.org <br>
 + [Sermon: 15/03/26. The Courage to Trust God by Dr Tafara E. Makuni](https://youtu.be/sUp9-YSXRmo)<br>
 + [Sermon: 19/07/26. Living as Wheat amongst the Weeds by Dr Tafara E. Makuni](https://youtu.be/d30FUbPpX9Y)<br>
 + [Sermon: 23/08/26. The Bedrock of Jesus Christ by Dr Tafara E. Makuni](https://youtu.be/xVD0NwoB1P4)<br>
+-->
 
 ## Social Media
 + [Instagram](https://www.instagram.com/imperialchristianpostgradgroup)<br>
