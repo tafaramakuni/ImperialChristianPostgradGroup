@@ -20,11 +20,11 @@ Short Biography. <br>
 <br>
 Contact: baxtermcrolston@chelsea******.org <br>
 
-## Gathering
+## Gatherings
 #### Main Session Locations: [CAGB-03-321, City and Guilds Building, Level 3, Meeting Room 321; Imperial College London, South Kensington.](https://www.imperial.ac.uk/engineering/study/current/teaching-spaces/cagb-309/) <br>
 <img src="assets/SiteMapCAGB-03-321.jpg" alt="SiteMap" style="width: 800px;"> <br>
 
-#### Session Dates
+#### Term 1 Session Dates
 + Thu 1st October 2026: Freshers Welcome: *Introductions & Testemonies*. Location: Senior Common Room (SCR), South Kensington Campus. <br>
 + Thu 8th October 2026: Session 1: *Intro to IFES: Field-Christ & Vice-Versa.* Location: CAGB-03-321. <br>
 + Fri 16th October 2026: Talk: Dr Tafara Estelle Makuni. **Location: Christ Church Kensington, London W8 5RQ.** <br>
