@@ -32,7 +32,7 @@ Contact: baxtermcrolston@chelsea******.org <br>
 + Thu 5th November 2026: Session 2. Location: CAGB-03-321. <br>
 + Fri 20th November 2026: *Book Discussion: 'All-In: Your Christian Career Guide - Fruitful Work'*. **Location: Christ Church Kensington, London W8 5RQ.** <br>
 + Thu 3rd December 2026: : Session 3. Location: CAGB-03-321. <br>
-+ Thu 10th December 2026. End of Term Celebration. Location: PRET (Imperial Business School). <br>
++ Thu 10th December 2026. End of Term Celebration. Location: CAGB-03-321. <br>
 
 ### Other Events
 + [Fruitful Work: Book Launch, Tuesday 22nd September 2026](https://fruitfulwork.org/book-launch)<br>
