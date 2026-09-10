@@ -30,7 +30,7 @@ Contact: baxtermcrolston@chelsea******.org <br>
 + Thu 8th October 2026: Session 1. Location: CAGB-03-321. <br>
 + Fri 16th October 2026: Talk: Dr Tafara Estelle Makuni. **Location: Christ Church Kensington, London W8 5RQ.** <br>
 + Thu 5th November 2026: Session 2. Location: CAGB-03-321. <br>
-+ Fri 20th November 2026: Book Discussion: 'All-In: Your Christian Career Guide'. **Location: Christ Church Kensington, London W8 5RQ.** <br>
++ Fri 20th November 2026: *Book Discussion: 'All-In: Your Christian Career Guide - Fruitful Work'*. **Location: Christ Church Kensington, London W8 5RQ.** <br>
 + Thu 3rd December 2026: : Session 3. Location: CAGB-03-321. <br>
 + Thu 10th December 2026. End of Term Celebration. Location: PRET (Imperial Business School). <br>
 
