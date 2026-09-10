@@ -28,9 +28,9 @@ Contact: baxtermcrolston@chelsea******.org <br>
 #### Term 1 Session Dates:
 + Thu 1st October 2026: Freshers Welcome: *Introductions & Testemonies*. Location: Senior Common Room (SCR), South Kensington Campus. <br>
 + Thu 8th October 2026: Session 1: *Intro to IFES: Field-Christ & Vice-Versa.* Location: CAGB-03-321. <br>
-+ Fri 16th October 2026: Talk: Dr Tafara Estelle Makuni. **Location: Christ Church Kensington, London W8 5RQ.** <br>
++ Fri 16th October 2026, 18:30: Talk: Dr Tafara Estelle Makuni. **Location: Christ Church Kensington, London W8 5RQ.** <br>
 + Thu 5th November 2026: Session 2: *Book Discussion: 'All-In: Your Christian Career Guide - Fruitful Work'*. Location: CAGB-03-321. <br>
-+ Fri 20th November 2026: Talk: Speaker TBC. **Location: Christ Church Kensington, London W8 5RQ.** <br>
++ Fri 20th November 2026, 18:30: Talk: Speaker TBC. **Location: Christ Church Kensington, London W8 5RQ.** <br>
 + Thu 26th November 2026: Session 3: *Discussion on How our Fields Point to Chrits & Vice-Versa.* Location: CAGB-03-321. <br>
 + Thu 10th December 2026. End of Term Celebration: *Praise & Worship Night*. Location: CAGB-03-321. <br>
 
