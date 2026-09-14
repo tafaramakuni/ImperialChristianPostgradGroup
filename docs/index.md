@@ -14,12 +14,6 @@ Fangyue (aka Nancy) is a trainee surgeon and a PhD researcher at Institute of Gl
 <br>
 Contact: fangyue.chen20@i******l.ac.uk <br>
 
-### Co-Leaders: Baxter
-<img src="assets/BaxterProfilePicture.jpg" alt="Baxter" style="width: 200px; height: 200px;"> <br>
-Short Biography. <br>
-<br>
-Contact: baxtermcrolston@chelsea******.org <br>
-
 ## Gatherings
 #### Main Session Locations: [CAGB-03-321, City and Guilds Building, Level 3, Meeting Room 321; Imperial College London, South Kensington.](https://www.imperial.ac.uk/engineering/study/current/teaching-spaces/cagb-309/) <br>
 #### Main Session Times: 18:15pm - 19:30pm 
