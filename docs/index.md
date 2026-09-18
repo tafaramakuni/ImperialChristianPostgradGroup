@@ -20,7 +20,7 @@ Contact: fangyue.chen20@i******l.ac.uk <br>
 <img src="assets/SiteMapCAGB-03-321.jpg" alt="SiteMap" style="width: 800px;"> <br>
 
 #### Term 1 Session Dates:
-+ Thu 1st October 2026: Freshers Welcome: *Introductions & Testemonies*. Location: Senior Common Room (SCR), South Kensington Campus. <br>
++ Thu 1st October 2026: Freshers Welcome: *Introductions & Testemonies*. **Location: Senior Common Room (SCR), South Kensington Campus.** <br>
 + Thu 8th October 2026: Session 1: *Intro to IFES: Field-Christ & Vice-Versa.* Location: CAGB-03-321. <br>
 + Fri 16th October 2026, 18:30, Talk: Dr Tafara Estelle Makuni: Should Christian Scientists Fear AI? **Location: Christ Church Kensington, London W8 5RQ.** <br>
 + Thu 5th November 2026: Session 2: *How our Fields Point to Christ & Vice-Versa.* Location: CAGB-03-321. <br>
