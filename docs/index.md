@@ -31,8 +31,9 @@ Contact: fangyue.chen20@i******l.ac.uk <br>
 
 ### Other Events
 + [Fruitful Work: Book Launch, Tuesday 22nd September 2026](https://fruitfulwork.org/book-launch)<br>
-+ [Rowan Williams: Releasing the Spirit, 2pm Saturday 26th September 2026](https://www.eventbrite.co.uk/e/releasing-the-spirit-lancelot-andrewes-and-the-poetics-of-preaching-tickets-1995969744235?aff=oddtdtcreator&keep_tld=true)
++ [Rowan Williams: Releasing the Spirit, Saturday 26th September 2026](https://www.eventbrite.co.uk/e/releasing-the-spirit-lancelot-andrewes-and-the-poetics-of-preaching-tickets-1995969744235?aff=oddtdtcreator&keep_tld=true)
 + [Forming A Christian Mind: London Seminar, Wednesday 7th October 2026](https://formingachristianmind.org/london/)<br>
++ [Christian Vision, Digital Day 26, Thursday 12th November 2026](https://www.cvglobal.co/en/digitalday/online-registration)<br>
 + [Fruitful Work: National Gathering, Fri/Sat 8-9th January 2027](https://fruitfulwork.org/national-gathering) <br>
 
 <!--
