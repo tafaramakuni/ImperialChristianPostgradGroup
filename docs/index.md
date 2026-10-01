@@ -52,6 +52,7 @@ Contact: fangyue.chen20@i******l.ac.uk <br>
 ## Social Media
 + [Instagram](https://www.instagram.com/imperialchristianpostgradgroup)<br>
 + [WhatsApp](https://chat.whatsapp.com/FvUIcdLEQlWBBeof7dLWkB)<br>
++ [Twitter](https://x.com/ICLChristianPGs)<br>
 
 ## Affiliated Churches and Organisations
 + [Christ Church Kensington](https://www.christchurchkensington.com/)<br>
