@@ -4,7 +4,8 @@
 ## Gatherings
 #### Main Session Locations: [Senior Common Room (SCR), South Kensington Campus; Imperial College London, South Kensington.](https://www.imperial.ac.uk/events-and-hospitality/venues/sherfield-building/scr/) <br>
 #### Main Session Times: 18:15pm - 19:30pm 
-<img src="assets/SiteMapCAGB-03-321.jpg" alt="SiteMap" style="width: 800px;"> <br>
+
+<img src="assets/Instagram Post 04.jpg" alt="SiteMap" style="width: 600px;"> <br>
 
 #### Term 1 Session Dates:
 + Fri 2nd October 2026: Freshers Welcome: *Introductions & Testimonies*. **Location: Senior Common Room (SCR), South Kensington Campus.** <br>
