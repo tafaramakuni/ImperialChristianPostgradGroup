@@ -5,17 +5,16 @@
 #### Main Session Locations: [Senior Common Room (SCR), South Kensington Campus; Imperial College London, South Kensington.](https://www.imperial.ac.uk/events-and-hospitality/venues/sherfield-building/scr/) <br>
 #### Main Session Times: 18:15pm - 19:30pm 
 
-<img src="assets/Instagram Post 04.jpg" alt="SiteMap" style="width: 600px;"> <br>
+<img src="assets/SeniorCommonRoomICL_SKen.jpg" alt="SiteMap" style="width: 800px;"> <br>
 
 #### Term 1 Session Dates:
-+ Fri 2nd October 2026: Freshers Welcome: *Introductions & Testimonies*. **Location: Senior Common Room (SCR), South Kensington Campus.** <br>
-+ Thu 8th October 2026: Session 1: *Intro to IFES: Field-Christ & Vice-Versa.* Location: Senior Common Room (SCR). <br>
++ Fri 2nd October 2026: Freshers Welcome: *Introductions & Testimonies*. *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
++ Thu 8th October 2026: Session 1: *Intro to IFES: Field-Christ & Vice-Versa. *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
 + Fri 16th October 2026, 18:30, **Dr Tafara E. Makuni**: 'Should Christian Scientists Fear AI?'. **Location: Christ Church Kensington, London W8 5RQ.** <br>
-+ Thu 5th November 2026: Session 2: *How our Fields Point to Christ & Vice-Versa.* Location: Senior Common Room (SCR).<br>
++ Thu 5th November 2026: Session 2: *How our Fields Point to Christ & Vice-Versa. *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
 + Fri 20th November 2026, 18:30, **Edmund Michaelson**: 'All-In: Your Christian Career Guide - Fruitful Work'. **Location: Christ Church Kensington, London W8 5RQ.** <br>
-+ Thu 26th November 2026: Session 3: *How our Fields Point to Christ & Vice-Versa.* Location: Senior Common Room (SCR).<br>
-+ Thu 10th December 2026: End-of-Term Celebration *Praise and Worship.* Location: Senior Common Room (SCR).<br>
-
++ Thu 26th November 2026: Session 3: *How our Fields Point to Christ & Vice-Versa.*Location: Senior Common Room (SCR), South Kensington Campus.* <br>
++ Thu 10th December 2026: End-of-Term Celebration *Praise and Worship. *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
 
 ### Other Events
 + [Fruitful Work: Book Launch, Tuesday 22nd September 2026](https://fruitfulwork.org/book-launch)<br>
