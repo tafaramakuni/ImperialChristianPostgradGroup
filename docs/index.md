@@ -42,14 +42,15 @@
 + [Twitter](https://x.com/ICLChristianPGs)<br>
 
 
-#### Leader: Dr Tafara Estelle Makuni
+## Leaders 
+#### Leader: Tafara
 <img width="200" height="200" alt="Tafara" src="https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03" /><br>
 Dr Tafara Estelle Makuni is Christian scientist currently pursuing a second AI-focused PhD at Imperial College London within the Structural Integrity and Health Monitoring Group, funded by CINEA and UKRI. She previously completed a PhD in Experimental Aerodynamics at University of Cambridge. With experience across academia, education and industry, including Rolls-Royce and MBDA UK, Tafara combines technical expertise with strong leadership, communication and problem-solving skills. <br>
 
 Contact: t.makuni23@i******l.ac.uk <br>
 Mobile: (+44)7794 513150
 
-#### Co-Leaders: Nancy
+#### Co-Leader: Nancy
 <img src="assets/NancyProfilePicture.jpeg" alt="Nancy" style="width: 200px; height: 200px;"> <br>
 Fangyue (aka Nancy) is a trainee surgeon and a PhD researcher at Institute of Global Health Innovation at Imperial. She was born in China, and has been exploring the Christian faith ever since university times, until Jesus came and touched her heart when she first became a doctor in 2019. She loves music and has a faith-based Instagram channel @thegracefuldoctor. <br>
 <br>
