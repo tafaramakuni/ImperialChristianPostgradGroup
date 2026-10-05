@@ -10,9 +10,9 @@
 #### Term 1 Session Dates:
 + Fri 2nd October 2026: Freshers Welcome: *Introductions & Testimonies*. *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
 + Thu 8th October 2026: Session 1: *Intro to IFES: Field-Christ & Vice-Versa. *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
-+ Fri 16th October 2026, 18:30, **Dr Tafara E. Makuni**: 'Should Christian Scientists Fear AI?'. **Location: Christ Church Kensington, London W8 5RQ.** <br>
++ Fri 16th October 2026, 18:30, **Dr Tafara Makuni**: 'Should Christian Scientists Fear AI?'. **Location: Christ Church Kensington, London W8 5RQ.** <br>
 + Thu 5th November 2026: Session 2: *How our Fields Point to Christ & Vice-Versa. *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
-+ Fri 20th November 2026, 18:30, **Edmund Michaelson**: 'All-In: Your Christian Career Guide - Fruitful Work'. **Location: Christ Church Kensington, London W8 5RQ.** <br>
++ Fri 20th November 2026, 18:30, **Dr Edmund Michaelson**: 'All-In: Your Christian Career Guide - Fruitful Work'. **Location: Christ Church Kensington, London W8 5RQ.** <br>
 + Thu 26th November 2026: Session 3: *How our Fields Point to Christ & Vice-Versa.*Location: Senior Common Room (SCR), South Kensington Campus.* <br>
 + Thu 10th December 2026: End-of-Term Celebration *Praise and Worship. *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
 
