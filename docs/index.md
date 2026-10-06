@@ -1,10 +1,12 @@
 # Imperial College London Christian Postgraduate Group (ICPG)
+<!--
 <img src="assets/ICPG Logo.jpg" alt="ICPG" style="width: 100px; height: 100px;"><br>
+-->
+<img src="assets/Imperial_BG_With_Logo.jpg" alt="Banner" style="width: 800px;"> <br>
 
 ## Gatherings
 #### Main Session Locations: [Senior Common Room (SCR), South Kensington Campus; Imperial College London, South Kensington.](https://www.imperial.ac.uk/events-and-hospitality/venues/sherfield-building/scr/) <br>
 #### Main Session Times: 18:15pm - 19:30pm 
-
 <img src="assets/SeniorCommonRoomICL_SKen.jpg" alt="SiteMap" style="width: 800px;"> <br>
 
 #### Term 1 Session Dates:
@@ -23,7 +25,7 @@
 + [Forming A Christian Mind: London Seminar, Thursday 19th November 2026](https://formingachristianmind.org/london/)<br>
 + [Fruitful Work: National Gathering, Friday/Saturday 8-9th January 2027](https://fruitfulwork.org/national-gathering) <br>
 
-<!--
+
 ### Additional Resources
 #### Talks
 + [Talk: Should Christian Scientists Fear AI? by Dr Tafara E. Makuni](https://youtu.be/TV1cMX5hWok)<br>
