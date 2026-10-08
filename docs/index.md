@@ -36,7 +36,7 @@
 + [Sermon: 15/03/26. The Courage to Trust God by Dr Tafara E. Makuni](https://youtu.be/sUp9-YSXRmo)<br>
 + [Sermon: 19/07/26. Living as Wheat amongst the Weeds by Dr Tafara E. Makuni](https://youtu.be/d30FUbPpX9Y)<br>
 + [Sermon: 23/08/26. The Bedrock of Jesus Christ by Dr Tafara E. Makuni](https://youtu.be/xVD0NwoB1P4)<br>
--->
+
 
 ## Social Media
 + [Instagram](https://www.instagram.com/imperialchristianpostgradgroup)<br>
