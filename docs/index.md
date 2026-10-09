@@ -27,9 +27,10 @@
 
 
 ### Additional Resources
+<!--
 #### Talks
 + [Talk: Should Christian Scientists Fear AI? by Dr Tafara E. Makuni](https://youtu.be/TV1cMX5hWok)<br>
-
+-->
 #### Sermons
 + [Sermon: 31/08/25. Christ as an Unblemished Bride by Dr Tafara E. Makuni](https://youtu.be/G5tOrx_P4yg)<br>
 + [Sermon: 30/11/25. Awaiting the Return of Jesus by Dr Tafara E. Makuni](https://youtu.be/Iv_bYdA8KVA)<br>
