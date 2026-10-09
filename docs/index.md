@@ -20,9 +20,9 @@
 
 ### Other Events
 + [Fruitful Work: Book Launch, Tuesday 22nd September 2026](https://fruitfulwork.org/book-launch)<br>
-+ [Forming A Christian Mind: London Seminar, Wednesday 7th October 2026](https://formingachristianmind.org/london/)<br>
++ [Forming A Christian Mind: London Seminar, Wednesday 7th October 2026; How to Thrive as a Christian Postgrad](https://formingachristianmind.org/london/)<br>
 + [Christian Vision, Digital Day 26, Thursday 12th November 2026](https://www.cvglobal.co/en/digitalday/online-registration)<br>
-+ [Forming A Christian Mind: London Seminar, Thursday 19th November 2026](https://formingachristianmind.org/london/)<br>
++ [Forming a Christian Mind, London Seminar, Thursday 19th November 2026; Made in Whose Image? AI, Faith, and the Future of Being Human](https://formingachristianmind.org/london/)<br>
 + [Fruitful Work: National Gathering, Friday/Saturday 8-9th January 2027](https://fruitfulwork.org/national-gathering) <br>
 
 ## Social Media
