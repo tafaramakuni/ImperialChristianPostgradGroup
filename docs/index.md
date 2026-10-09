@@ -19,11 +19,11 @@
 + Thu 10th December 2026: End-of-Term Celebration *Praise and Worship. *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
 
 ### Other Events
-+ [Fruitful Work: Book Launch, Tuesday 22nd September 2026](https://fruitfulwork.org/book-launch)<br>
-+ [Forming A Christian Mind: London Seminar, Wednesday 7th October 2026; How to Thrive as a Christian Postgrad](https://formingachristianmind.org/london/)<br>
-+ [Christian Vision, Digital Day 26, Thursday 12th November 2026](https://www.cvglobal.co/en/digitalday/online-registration)<br>
-+ [Forming a Christian Mind, London Seminar, Thursday 19th November 2026; Made in Whose Image? AI, Faith, and the Future of Being Human](https://formingachristianmind.org/london/)<br>
-+ [Fruitful Work: National Gathering, Friday/Saturday 8-9th January 2027](https://fruitfulwork.org/national-gathering) <br>
++ [Fruitful Work: Book Launch, Tues 22nd Sept 2026](https://fruitfulwork.org/book-launch)<br>
++ [Forming A Christian Mind: London Seminar, Weds 7th Oct 2026; How to Thrive as a Christian Postgrad](https://formingachristianmind.org/london/)<br>
++ [Christian Vision, Digital Day 26, Thur 12th Nov 2026](https://www.cvglobal.co/en/digitalday/online-registration)<br>
++ [Forming a Christian Mind, London Seminar, Thur 19th Nov 2026; Made in Whose Image? AI, Faith, and the Future of Being Human](https://formingachristianmind.org/london/)<br>
++ [Fruitful Work: National Gathering, Fri/Sat 8-9th Jan 2027](https://fruitfulwork.org/national-gathering) <br>
 
 ## Social Media
 + [Instagram](https://www.instagram.com/imperialchristianpostgradgroup)<br>
