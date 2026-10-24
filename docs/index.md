@@ -10,7 +10,7 @@
 <img src="assets/SeniorCommonRoomICL_SKen.jpg" alt="SiteMap" style="width: 800px;"> <br>
 
 #### Term 1 Session Dates:
-+ Fri 2nd October 2026: [Freshers Welcome: *Introductions & Testimonies*.](docs/assets/Session 0 - Welcome Session - PDF.pdf) *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
++ Fri 2nd October 2026: [Freshers Welcome: *Introductions & Testimonies*.](assets/Session%200%20-%20Welcome%20Session%20-%20PDF.pdf) *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
 + Thu 8th October 2026: [Session 1: *Intro to IFES: Field-Christ & Vice-Versa.](assets/ICPG%20-%20Session%201%20Slides%20-%20Thu%208th%20Oct%202026.pdf) *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
 + Fri 16th October 2026, [**Dr Tafara Makuni**: 'Should Christian Scientists Fear AI?'.](assets/CCK%20Talk%20-%20Should%20Christians%20Fear%20AI%20-%2016%20Oct%202026.pdf) **Location: Christ Church Kensington, London W8 5RQ.** <br>
 + Thu 5th November 2026: Session 2: *How our Fields Point to Christ & Vice-Versa. *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
