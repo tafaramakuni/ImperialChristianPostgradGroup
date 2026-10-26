@@ -14,7 +14,7 @@
 + Thu 8th October 2026: [Session 1: *Intro to IFES: Field-Christ & Vice-Versa.](assets/ICPG%20-%20Session%201%20Slides%20-%20Thu%208th%20Oct%202026.pdf) *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
 + Fri 16th October 2026, [**Dr Tafara Makuni**: 'Should Christian Scientists Fear AI?'.](assets/CCK%20Talk%20-%20Should%20Christians%20Fear%20AI%20-%2016%20Oct%202026.pdf) **Location: Christ Church Kensington, London W8 5RQ.** <br>
 + Thu 5th November 2026: Session 2: *How our Fields Point to Christ & Vice-Versa. *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
-+ Mon 9th November 2026: AI Panel Talk featuring **Dr Richard Gunton, Dr Tafara Makuni and Dr Hope Speirs.**  **Location: Christ Church Kensington, London W8 5RQ.** <br>
++ Mon 9th November 2026: AI Panel Talk featuring **Dr Richard Gunton, Dr Tafara Makuni and Dr Hope Speirs.**  Location: Christ Church Kensington, London W8 5RQ. <br>
 + Fri 20th November 2026, **Dr Edmund Michaelson**: 'All-In: Your Christian Career Guide - Fruitful Work'. **Location: Christ Church Kensington, London W8 5RQ.** <br>
 + Thu 26th November 2026: Session 3: *How our Fields Point to Christ & Vice-Versa.*Location: Senior Common Room (SCR), South Kensington Campus.* <br>
 + Thu 10th December 2026: End-of-Term Celebration *Praise and Worship. *Location: Senior Common Room (SCR), South Kensington Campus.* <br>
